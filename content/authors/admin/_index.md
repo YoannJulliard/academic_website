@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include 'implicit' processes, methods, and data analysis.
+bio: My research interests include 'implicit' processes, grounded cognition, methods, and data analysis.
 education:
   courses:
   - course: PhD degree in Psychology
@@ -19,12 +19,12 @@ education:
 email: "yoannjulliard@protonmail.com"
 interests:
 - \'Implicit\' processes
-- Memory models
+- Grounded cognition
 - Methods in psychological science
 - Data analytic methods
 - R
 title: Yoann Julliard
-# name: Yoann Julliard
+name: Yoann Julliard
 organizations:
 - name: LIP/PC2S
   url: "https://www.lippc2s.fr"
@@ -58,7 +58,7 @@ I am a PhD student in social cognition in the LIP/PC2S lab at Univ. Grenoble Alp
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
-My research interests include controversially-called 'implicit processes' (and more specifically approach/avoidance tendencies), non-abstractive memory models, methods in psychological science (e.g., open science stuff), and data analytic methods (i.e., things using R). 
+My research interests include (controversially called) 'implicit' processes and more specifically approach/avoidance tendencies, grounded cognition, methods in psychological science (e.g., open science stuff), and data analytic methods (i.e., things using R). 
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
@@ -67,4 +67,8 @@ I currently work under the supervision of Dominique Muller on the memory process
 
 <p style='font-size:18px; text-align: justify;'> 
 Beside my academic activities, I spend a bunch of time trying to understand the climate change issue and related topics such as energy supply. I occasionally organize conferences about climate change and energy. 
+</p>
+
+<p style='font-size:18px; text-align: justify;'> 
+<i>Unconvincingly significant</i> means that significance (at the conventional threshold) is not convincing.
 </p>

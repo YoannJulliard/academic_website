@@ -1,5 +1,6 @@
 ---
 title: SPSP 2022 [Poster]
+subtitle: Society for Personality and Social Psychology Annual Conference 2022
 
 event: Society for Personality and Social Psychology Annual Conference 2022
 event_url: https://meeting.spsp.org

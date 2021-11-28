@@ -1,5 +1,6 @@
 ---
 title: ESCON 2021
+subtitle: European Social Cognition Network Conference 2021
 
 event: European Social Cognition Network Conference 2021
 event_url: http://escon2020.sbg.ac.at

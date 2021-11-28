@@ -6,6 +6,7 @@ widget: featurette
 # This file represents a page section.
 headless: true
 
+# Enable/disable the section
 active: false
 
 # Order that this section appears on the page.

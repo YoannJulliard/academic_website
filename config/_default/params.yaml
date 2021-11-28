@@ -7,8 +7,8 @@
 
 theme: minimal
 day_night: true
-font: ''
-font_size: L
+font: 'custom_font'
+font_size: M
 
 # SEO
 
@@ -30,8 +30,8 @@ address:
   country: FRANCE
   country_code: FR
 coordinates:
-  latitude: '45.1928849'
-  longitude: '5.7729701'
+  latitude: '45.1927829'
+  longitude: '5.7733901'
 directions: Michel Dubois Building, 2nd Floor, Office D213
 office_hours:
   - 'Anytime during the day'
@@ -140,9 +140,9 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'mapbox'
   api_key: ''
-  zoom: 15
+  zoom: 17
 marketing:
   google_analytics: ''
   google_tag_manager: ''

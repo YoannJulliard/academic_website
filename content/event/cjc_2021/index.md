@@ -1,5 +1,6 @@
 ---
 title: CJC 2021
+subtitle: Colloque Jeunes Chercheurs 2021
 
 event: Colloque Jeunes Chercheurs 2021
 event_url: http://www.adrips.org/colloque/?page_id=641

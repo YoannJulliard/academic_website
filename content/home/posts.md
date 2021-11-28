@@ -9,14 +9,15 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Posts
+# The title of the section is also a link to the post specific webpage
+title: '<a href="/post" style="color: inherit;">Posts</a>'
 subtitle:
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: post
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 3
   # Filter on criteria
   filters:
     author: ""

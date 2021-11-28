@@ -1,9 +1,9 @@
 ---
 title: What simple effects can't tell
-subtitle: Often, people interpret an interaction based on the simple effects. This post aims at showing that this kind of practice is to be avoided because simple effects also depends on the main effects.
+subtitle: Often, people interpret an interaction based on simple effects. This post aims at showing that this kind of practice is to be avoided because simple effects also depend on main effects.
 
 # Summary for listings and search engines
-summary: Often, people interpret an interaction based on the simple effects. This post aims at showing that this kind of practice is to be avoided because simple effects also depends on the main effects.
+summary: Often, people interpret an interaction based on simple effects. This post aims at showing that this kind of practice is to be avoided because simple effects also depend on main effects.
 
 # Link this post with a project
 projects: []
@@ -44,6 +44,8 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/YoannJulliard
+- name: R shiny app
+  url: https://yoannjulliard.shinyapps.io/rosnow_rosenthal_app/
 ---
 
 ## Some context
@@ -60,11 +62,9 @@ Even though the app below is designed to illustrate approach/avoidance data, you
 ## Simple effects depend on main effects
 
 <p style='font-size:15px; text-align: justify;'> 
-As you can see with the app below, simple effects depend but also on the main effects. One way of looking at it is the vary the main effects using the sliders and to see how it affects the simple effects.
-<br>
-Thus, you can see that various patterns of simple effects can be observed with the exact same interaction (see the t-value), because varying the main effects do not affect the interaction effect at all. 
-<br>
-Another consequence is that different visual pattern of mean plot can arise from the exact same interaction. 
+As you can see with the app below, simple effects depend on the interaction, but also on the main effects. One way to see this is to vary the main effects using the sliders and to observe how it affects the simple effects.
+<br><br>
+You can see that various patterns of simple effects can be observed with the exact same interaction (see the t-value), because varying the main effects do not affect the interaction effect at all. Another consequence is that different visual pattern of mean plot can arise from the exact same interaction. 
 <br><br>
 Using this app, you can also see visually what an interaction effect really looks like. To do so, set the valence and movement main effects to 0, and increase the sample size to some 10,000 participants (in order to reduce random variability). Once you have done these manipulations you look at a 'real' interaction plot, and as you can see the pattern of an interaction is always crossed.
 </p>

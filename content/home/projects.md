@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: '<a href="/project" style="color: inherit;">Projects</a>'
 subtitle: ''
 
 content:
