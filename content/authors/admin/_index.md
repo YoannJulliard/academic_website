@@ -47,6 +47,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/yoannjulliard
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-5428-6994
 superuser: true
 user_groups:
 - Researchers
@@ -66,9 +69,9 @@ I currently work under the supervision of Dominique Muller on the memory process
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
-Beside my academic activities, I spend a bunch of time trying to understand the climate change issue and related topics such as energy supply. I occasionally organize conferences about climate change and energy. 
+Beside my academic activities, I spend a bunch of time trying to understand the climate change issue and related topics such as energy supply. <!-- I occasionally organize conferences about climate change and energy. -->
 </p>
-
+<!-- 
 <p style='font-size:18px; text-align: justify;'> 
 <i>Unconvincingly significant</i> means that significance (at the conventional threshold) is not convincing.
-</p>
+</p> -->
