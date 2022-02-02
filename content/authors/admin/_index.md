@@ -20,6 +20,7 @@ email: "yoannjulliard@protonmail.com"
 interests:
 - \'Implicit\' processes
 - Grounded cognition
+- Multiple trace memory models
 - Methods in psychological science
 - Data analytic methods
 - R
@@ -57,11 +58,11 @@ user_groups:
 ---
 
 <p style='font-size:18px; text-align: justify;'> 
-I am a PhD student in social cognition in the LIP/PC2S lab at Univ. Grenoble Alpes. 
+I am a PhD student in social psychology in the LIP/PC2S lab at Univ. Grenoble Alpes. 
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
-My research interests include (controversially called) 'implicit' processes and more specifically approach/avoidance tendencies, grounded cognition, methods in psychological science (e.g., open science stuff), and data analytic methods (i.e., things using R). 
+My research interests include 'implicit' processes and more specifically approach/avoidance tendencies, grounded cognition, methods in psychological science, and data analytic methods. 
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
@@ -69,7 +70,7 @@ I currently work under the supervision of Dominique Muller on the memory process
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
-Beside my academic activities, I spend a bunch of time trying to understand the climate change issue and related topics such as energy supply. <!-- I occasionally organize conferences about climate change and energy. -->
+Beside my academic activities, I spend a bunch of time trying to understand the climate change issue and related topics such as energy supply. 
 </p>
 <!-- 
 <p style='font-size:18px; text-align: justify;'> 

@@ -13,7 +13,7 @@ location: San Francisco (United States)
 #   postcode: '94305'
 #   country: United States
 
-summary: Approach/avoidance tendencies of novel trained stimuli
+summary: What drives people's tendency to approach or to avoid?
 abstract: "<p style='font-size:15px; text-align: justify;'>Should I approach or avoid? Relying on past behaviors is often adapted to decide quickly. However, past research focused on valence showing that people are faster to approach positive stimuli and avoid negative ones than the reverse (Chen & Bargh, 1999). A grounded cognition view suggests that approach/avoidance tendencies could emerge from past experiences reactivation. Hence, approach/avoidance experiences should create later tendencies.
 <br><br>
 In Exp. 1, participants in a first phase approached/avoided novel stimuli from two fictitious groups. In a second phase, participants were primed with these stimuli and had to approach/avoid neutral geometric shapes. We predicted and observed faster responses to approach/avoid shapes when primed with approached/avoided stimuli than the reverse, t(154) = 5.22, p = .025, dz = 0.42.
