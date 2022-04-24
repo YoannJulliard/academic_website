@@ -22,7 +22,7 @@ interests:
 - Grounded cognition
 - Multiple trace memory models
 - Methods in psychological science
-- Data analytic methods
+- Data analysis
 - R
 title: Yoann Julliard
 name: Yoann Julliard
@@ -62,7 +62,7 @@ I am a PhD student in social psychology in the LIP/PC2S lab at Univ. Grenoble Al
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
-My research interests include 'implicit' processes and more specifically approach/avoidance tendencies, grounded cognition, methods in psychological science, and data analytic methods. 
+My research interests include 'implicit' processes and more specifically approach/avoidance tendencies, grounded cognition, methods in psychological science, and data analysis. 
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 

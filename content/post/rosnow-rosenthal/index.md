@@ -37,7 +37,7 @@ tags:
 - shiny
 
 categories:
-- shiny
+- statistics
 
 links:
 - icon: twitter
@@ -53,7 +53,7 @@ links:
 <p style='font-size:15px; text-align: justify;'> 
 The app below displays a plot based on various entries that you can manipulate. To give some context, the app is inspired by data we observe using approach/avoidance tasks. In these tasks, participants have to approach or to avoid positive or negative stimuli. Data typically reveals 'compatibility effects': Particicipants are faster in the compatible condition (in which they have to approach positive stimuli and to avoid negative ones), than in the incompatible condition (in which they have to approach negative stimuli and to avoid positive ones). 
 <br>
-This compatibility effect is often inferred from the interaction between movement and valence, but sometimes researchers draw conclusions based on the simple effects. As mentioned in the subtitle of this post, the app below aims at showing that this kind of practice is to be avoided (wink).
+This compatibility effect is often inferred from the interaction between movement and valence, but sometimes researchers draw conclusions based on the simple effects. As mentioned in the subtitle of this post, the app below aims at showing that this kind of practice is to be avoided.
 <br>
 <br>
 Even though the app below is designed to illustrate approach/avoidance data, you can apply the same reasoning to other effects, especially compatibility effects (e.g., stroop effects, imitation effects, priming effects...)
