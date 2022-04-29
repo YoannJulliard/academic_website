@@ -1,9 +1,9 @@
 ---
 title: Carbon stripes
-subtitle: Inspired by the warming stripes of Ed Hawkins, the carbon stripes represent yearly CO2 emissions through stripes as well as the remaining carbon budget of the 1.5°C and 2°C scenarios.
+subtitle: Inspired by the warming stripes of Ed Hawkins, the carbon stripes represent yearly CO2 emissions through as stripes and the remaining carbon budget of the 1.5°C and 2°C scenarios with dotted lines.
 
 # Summary for listings and search engines
-summary: Inspired by the warming stripes of Ed Hawkins, the carbon stripes represent yearly CO2 emissions through stripes as well as the remaining carbon budget of the 1.5°C and 2°C scenarios.
+summary: Inspired by the warming stripes of Ed Hawkins, the carbon stripes represent yearly CO2 emissions through as stripes and the remaining carbon budget of the 1.5°C and 2°C scenarios with dotted lines.
 
 # Link this post with a project
 projects: []
@@ -52,28 +52,28 @@ links:
 ## Some context
 
 <p style='font-size:15px; text-align: justify;'> 
-The carbon stripes visualization is inspired by the warming stripes visualization created by Ed Hawkins (see <a href="https://showyourstripes.info/s/globe" target="_blank" title="https://showyourstripes.info/s/globe">showyourstripes.info</a>). In the warming stripes visualization, each stripe represent a year (from 1850 to 2021) and the stripe's color indicates year's global temperature on earth from blue (cooler) to red (warmer). This is a simple and powerful visualization showing global warming intuitively.
+The carbon stripes was inspired by the warming stripes visualization created by Ed Hawkins (see <a href="https://showyourstripes.info/s/globe" target="_blank" title="https://showyourstripes.info/s/globe">showyourstripes.info</a>). In the warming stripes visualization, each stripe represent a year (from 1850 to 2021) and the stripe's color indicates year's global temperature on earth from blue (cooler) to red (warmer). This is a simple and powerful visualization showing global warming intuitively.
 <img src="warming_stripes_2021.png" width="600px" alt="Warming stripes · Credit: Ed Hawkins" title="Warming stripes · Credit: Ed Hawkins">
 </p>
 
 ## Carbon stripes
 
 <p style='font-size:15px; text-align: justify;'> 
-As suggested by its name, the carbon stripes aims at representing yearly CO2 emissions using stripes. The carbon stripes visualization also tries to represent the remaining carbon budget of the 1.5°C and 2°C scenario.
+The carbon stripes aims at representing yearly CO2 emissions through a simple visualization. The carbon stripes also represent the remaining carbon budget of the 1.5°C and 2°C scenarios.
 <br><br>
-As in the warming stripes, in the carbon stripes each year (from 1850 to 2020) is represented by a stripe. However, in the carbon stripes the width of each stripe depends on the year's CO2 emissions: The more CO2 was emitted, the larger the stripe. Thus, you can see that recent years have larger stripes, because world's CO2 emissions are still growing: each year we emit more than previous years.
+As in the warming stripes, in the carbon stripes each year (from 1850 to 2020) is represented by a stripe. However, in the carbon stripes the width of each stripe depends on the year's CO2 emissions: The more CO2 was emitted, the larger the stripe. Consequently, you can see below that recent years have larger stripes, because world's CO2 emissions are still growing: each year we emit more than previous years.
 <br><br>
 The carbon stripes also represent the remaining CO2 budget of the 1.5°C and the 2°C scenarios. These budgets are represented by two dotted lines, the closer one for the 1.5°C budget and the one on the right edge for the 2°C budget. Otherwise said, to stay below 1.5°C (with 67% chance) all of the stripes from now on to 2100 should fit between the last year's stripe and the closer dotted line. Similarly, to stay below 2°C (with 67% chance) all the stripes from now on to 2100 should fit between the last year's stripe and the dotted line on the right edge. 
 
 <img src="carbon_stripes_1850.png" width="800px" alt="Carbon stripes" title="Carbon stripes · from 1850 to 2021" >
 
-Blatantly, stripes of the next years will have to shrink if we are to meet the Paris Agreement. 
+Blatantly, carbon stripes of the next years will have to shrink if we are to meet the Paris Agreement. 
 </p>
 
 ## Your own carbon stripes
 
 <p style='font-size:15px; text-align: justify;'> 
-Visualizing the carbon stripes starting from the year of our birth gives a good sense of how fast we could overshoot the Paris Agreement if emissions do not decrease. The app below allows you to create your own carbon stripes by starting the stripes from the year of your choice (between 1850 and 2019). You can see that with current amounts of CO2 emissions, we would overshoot the 1.5°C budget in less than 10 years and the 2°C budget before 2050. 
+Visualizing the carbon stripes starting from the year of our birth gives a good sense of how fast we could overshoot the Paris Agreement if emissions do not decrease. The app below allows you to create your own carbon stripes by starting the stripes from the year of your choice (between 1850 and 2019). You can see that with current amounts of yearly CO2 emissions, we would overshoot the 1.5°C budget in less than 10 years and the 2°C budget before 2050. 
 <br>
 <iframe height="460px" width = "100%" frameborder="no" src="https://yoannjulliard.shinyapps.io/carbon_stripes_app/"> </iframe>
 </p>
