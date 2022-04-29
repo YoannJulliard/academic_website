@@ -1,9 +1,9 @@
 ---
 title: Carbon stripes
-subtitle: Inspired by the warming stripes of Ed Hawkins, the carbon stripes represent yearly CO2 emissions through as stripes and the remaining carbon budget of the 1.5°C and 2°C scenarios with dotted lines.
+subtitle: Inspired by the warming stripes of Ed Hawkins, the carbon stripes represent yearly CO2 emissions through stripes and the remaining CO2 budget of the 1.5°C and 2°C scenarios with dotted lines.
 
 # Summary for listings and search engines
-summary: Inspired by the warming stripes of Ed Hawkins, the carbon stripes represent yearly CO2 emissions through as stripes and the remaining carbon budget of the 1.5°C and 2°C scenarios with dotted lines.
+summary: Inspired by the warming stripes of Ed Hawkins, the carbon stripes represent yearly CO2 emissions through stripes and the remaining CO2 budget of the 1.5°C and 2°C scenarios with dotted lines.
 
 # Link this post with a project
 projects: []
@@ -59,7 +59,7 @@ The carbon stripes was inspired by the warming stripes visualization created by 
 ## Carbon stripes
 
 <p style='font-size:15px; text-align: justify;'> 
-The carbon stripes aims at representing yearly CO2 emissions through a simple visualization. The carbon stripes also represent the remaining carbon budget of the 1.5°C and 2°C scenarios.
+The carbon stripes aims at representing yearly CO2 emissions through a simple visualization. The carbon stripes also represent the remaining CO2 budget of the 1.5°C and 2°C scenarios.
 <br><br>
 As in the warming stripes, in the carbon stripes each year (from 1850 to 2020) is represented by a stripe. However, in the carbon stripes the width of each stripe depends on the year's CO2 emissions: The more CO2 was emitted, the larger the stripe. Consequently, you can see below that recent years have larger stripes, because world's CO2 emissions are still growing: each year we emit more than previous years.
 <br><br>
