@@ -18,7 +18,7 @@ education:
   #   year: 2015
 email: "yoannjulliard@protonmail.com"
 interests:
-- \'Implicit\' processes
+- Action tendencies
 - Grounded cognition
 - Multiple trace memory models
 - Methods in psychological science
@@ -66,11 +66,11 @@ My research interests include 'implicit' processes and more specifically approac
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
-I currently work under the supervision of Dominique Muller on the memory processes underlying approach/avoidance tendencies. 
+I currently work under the supervision of <a href="https://www.dominique.muller.lippc2s.fr" style="color: inherit;" onmouseover="style='text-decoration:underline; color: inherit'" onmouseout="style='text-decoration:none; color: inherit'" target="_blank" title="dominique.muller.lippc2s.fr">Dominique Muller</a> on the memory processes underlying approach/avoidance tendencies. 
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
-Beside my academic activities, I spend a bunch of time trying to understand the climate change issue and related topics such as energy supply. 
+Beside my academic activities, I spend a bunch of time on the climate change issue and related topics such as energy supply. 
 </p>
 <!-- 
 <p style='font-size:18px; text-align: justify;'> 
