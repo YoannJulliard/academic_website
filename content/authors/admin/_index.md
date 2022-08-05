@@ -4,7 +4,7 @@ authors:
 bio: My research interests include 'implicit' processes, grounded cognition, methods, and data analysis.
 education:
   courses:
-  - course: PhD degree in Psychology
+  - course: PhD Degree in Psychology
     institution: Univ. Grenoble Alpes
     year: in progress
   - course: Master's Degree Research in Psychology
@@ -20,8 +20,8 @@ email: "yoannjulliard@protonmail.com"
 interests:
 - Action tendencies
 - Grounded cognition
-- Multiple trace memory models
-- Methods in psychological science
+- Memory
+- Methods
 - Data analysis
 - R
 title: Yoann Julliard
