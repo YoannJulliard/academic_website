@@ -18,7 +18,7 @@ education:
   #   year: 2015
 email: "yoannjulliard@protonmail.com"
 interests:
-- Action tendencies
+- Approach-avoidance
 - Grounded cognition
 - Memory
 - Methods
@@ -36,9 +36,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/YoannJulliard
+- icon: mastodon
   icon_pack: fab
-  link: https://twitter.com/YoannJulliard
+  link: https://fediscience.org/@YoannJulliard
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=Yoann+Julliard&btnG=
@@ -62,7 +65,7 @@ I am a PhD student in social psychology in the LIP/PC2S lab at Univ. Grenoble Al
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
-My research interests include 'implicit' processes and more specifically approach/avoidance tendencies, grounded cognition, methods in psychological science, and data analysis. 
+My research interests include 'implicit' social cognition and more specifically approach/avoidance tendencies, grounded cognition, methods in psychological science, and data analysis. 
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
@@ -70,7 +73,7 @@ I currently work under the supervision of <a href="https://www.dominique.muller.
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
-Beside my academic activities, I spend a bunch of time on the climate change issue and related topics such as energy supply. 
+Beside my academic activities, I am concerned about climate change and related topics such as energy supply or biodiversity. 
 </p>
 <!-- 
 <p style='font-size:18px; text-align: justify;'> 

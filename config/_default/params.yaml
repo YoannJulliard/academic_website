@@ -30,17 +30,17 @@ address:
   country: FRANCE
   country_code: FR
 coordinates:
-  latitude: '45.1927829'
-  longitude: '5.7733901'
+  latitude: '45.19317889525659'
+  longitude: '5.77322052581534'
 directions: Michel Dubois Building, 2nd Floor, Office D213
 office_hours:
   - 'Anytime during the day'
 # appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
+  - icon: mastodon
     icon_pack: fab
-    name: DM me on Twitter
-    link: 'https://twitter.com/YoannJulliard'
+    name: <a rel="me" href="https://fediscience.org/@YoannJulliard">Contact me on Mastodon</a>
+    link: 'https://fediscience.org/@YoannJulliard'
   # - icon: skype
   #   icon_pack: fab
   #   name: Skype Me
