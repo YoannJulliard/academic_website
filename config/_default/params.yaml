@@ -39,7 +39,7 @@ office_hours:
 contact_links:
   - icon: mastodon
     icon_pack: fab
-    name: <a rel="me" href="https://fediscience.org/@YoannJulliard">Contact me on Mastodon</a>
+    name: <a rel="me" href="https://fediscience.org/@YoannJulliard" target="_blank" title="fediscience.org/@YoannJulliard">Contact me on Mastodon</a>
     link: 'https://fediscience.org/@YoannJulliard'
   # - icon: skype
   #   icon_pack: fab
