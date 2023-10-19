@@ -54,6 +54,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-5428-6994
+- icon: cv
+  icon_pack: ai
+  link: https://yoannjulliard.netlify.app/cv.pdf
 superuser: true
 user_groups:
 - Researchers

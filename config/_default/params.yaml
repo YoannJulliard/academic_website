@@ -34,7 +34,7 @@ coordinates:
   longitude: '5.77322052581534'
 directions: Michel Dubois Building, 2nd Floor, Office D213
 office_hours:
-  - 'Anytime during the day'
+  - 'Most of the time between 9:00am and 6:00pm'
 # appointment_url: 'https://calendly.com'
 contact_links:
   - icon: mastodon
