@@ -44,7 +44,7 @@ social:
   link: https://fediscience.org/@YoannJulliard
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/scholar?hl=fr&as_sdt=0%2C5&q=Yoann+Julliard&btnG=
+  link: https://scholar.google.com/citations?user=5HAbrDYAAAAJ&hl=fr&oi=ao
 - icon: osf
   icon_pack: ai
   link: https://osf.io/rcfzk/
