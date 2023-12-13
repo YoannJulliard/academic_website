@@ -4,9 +4,9 @@ authors:
 bio: My research interests include 'implicit' processes, grounded cognition, methods, and data analysis.
 education:
   courses:
-  - course: PhD Degree in Psychology
+  - course: PhD Degree in Social Psychology
     institution: Univ. Grenoble Alpes
-    year: in progress
+    year: 2023
   - course: Master's Degree Research in Psychology
     institution: Univ. Grenoble Alpes
     year: 2020
@@ -31,7 +31,7 @@ organizations:
   url: "https://www.lippc2s.fr"
 - name: Univ. Grenoble Alpes
   url: "https://www.univ-grenoble-alpes.fr/english/"
-role: PhD Student
+role: Post-Doc
 social:
 - icon: envelope
   icon_pack: fas
@@ -64,7 +64,7 @@ user_groups:
 ---
 
 <p style='font-size:18px; text-align: justify;'> 
-I am a PhD student in social psychology in the LIP/PC2S lab at Univ. Grenoble Alpes. 
+I am a Post-Doctoral Researcher & Teacher in social psychology in the LIP/PC2S lab at Univ. Grenoble Alpes. 
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 

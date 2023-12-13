@@ -44,6 +44,8 @@ permalinks:
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  # home: [HTML, RSS, JSON]
+  # see https://digitalstudio.academy/notes/hugo/wowchemy/troubleshooting/
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
