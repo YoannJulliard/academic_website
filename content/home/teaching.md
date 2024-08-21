@@ -13,7 +13,6 @@ subtitle: ""
 weight: 80
 
 # "---" three dashes creates a break line
-# test
 
 ---
 
