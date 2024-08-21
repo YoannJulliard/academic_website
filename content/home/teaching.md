@@ -23,5 +23,6 @@ weight: 80
 **Master's Degree:**
 - <span style='font-size:18px;'>Methods and data analysis in Social Psychology <span style= "font-size:17px; color:grey">(Univ. Grenoble Alpes)</span></span>
 - <span style='font-size:18px;'>Social Psychology and performance <span style= "font-size:17px; color:grey">(Univ. Grenoble Alpes)</span></span>
+- <span style='font-size:18px;'>Social Cognition and emotions <span style= "font-size:17px; color:grey">(Univ. Grenoble Alpes)</span></span>
 - <span style='font-size:18px;'>Social Psychology in education <span style= "font-size:17px; color:grey">(Univ. Grenoble Alpes, Univ. Savoie Mont Blanc)</span></span>
 - <span style='font-size:18px;'>Approach/avoidance tendencies and grounded cognition <span style= "font-size:17px; color:grey">(Univ. Paris Cité)</span></span>
