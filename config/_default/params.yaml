@@ -23,18 +23,18 @@ twitter: ''
 email: yoannjulliard@protonmail.com
 # phone: 888 888 88 88
 address:
-  street: 1251 Avenue Centrale
-  city: Saint-Martin-d'Hères
+  street: 
+  city: Grenoble
   region: Auvergne-Rhône-Alpes
-  postcode: '38400'
+  postcode: '38000'
   country: FRANCE
   country_code: FR
 coordinates:
-  latitude: '45.19317889525659'
-  longitude: '5.77322052581534'
-directions: Michel Dubois Building, 2nd Floor, Office D213
-office_hours:
-  - 'Most of the time between 9:00am and 6:00pm'
+  latitude: '45.189250'
+  longitude: '5.724603'
+# directions: Michel Dubois Building, 2nd Floor, Office D213
+# office_hours:
+#  - 'Most of the time between 9:00am and 6:00pm'
 # appointment_url: 'https://calendly.com'
 contact_links:
   - icon: mastodon

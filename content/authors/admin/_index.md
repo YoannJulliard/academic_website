@@ -31,7 +31,7 @@ organizations:
   url: "https://www.lippc2s.fr"
 - name: Univ. Grenoble Alpes
   url: "https://www.univ-grenoble-alpes.fr/english/"
-role: Post-Doc
+role: Independent Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -64,7 +64,7 @@ user_groups:
 ---
 
 <p style='font-size:18px; text-align: justify;'> 
-I am a Post-Doctoral Researcher & Teacher in social psychology in the LIP/PC2S lab at Univ. Grenoble Alpes. 
+I am an independent researcher in social psychology, associated to LIP/PC2S laboratory (Univ. Grenoble Alpes)
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
@@ -72,7 +72,7 @@ My research interests include 'implicit' social cognition and more specifically 
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
-I currently work under the supervision of <a href="https://www.dominique.muller.lippc2s.fr" style="color: inherit;" onmouseover="style='text-decoration:underline; color: inherit'" onmouseout="style='text-decoration:none; color: inherit'" target="_blank" title="dominique.muller.lippc2s.fr">Dominique Muller</a> on the memory processes underlying approach/avoidance tendencies. 
+I mainly work on the memory processes underlying approach/avoidance tendencies. I also have some research activities on carbon footprint metacognition.
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
