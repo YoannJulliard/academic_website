@@ -25,7 +25,7 @@ publishDate: "2023-12-13T00:00:00Z"
 publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: <a href="https://www.theses.fr/s246740" target="_blank" title="https://www.theses.fr/s246740">*theses.fr*</a>
+publication: <a href="https://theses.fr/2023GRALS054" target="_blank" title="https://theses.fr/2023GRALS054">*theses.fr*</a>
 # publication_short: In *Intellectica*
 
 abstract: "<p style='font-size:15px; text-align: justify;'>Within their environment, people face stimuli that are pleasant (e.g., food) or unpleasant (e.g., a predator). To explain and predict our reactions facing these stimuli, research in social psychology has focused on the concept of attitude. In this thesis, we suggest moving aside from this theoretical construct and to focus on approach-avoidance tendencies, which are at the root of the definitions of attitudes. To study the processes underlying the triggering of our action tendencies, notably in the VAAST (Rougier et al., 2018), we relied on a grounded cognition approach. This approach led us to predict that approach-avoidance tendencies: (a) could be triggered unintentionally, (b) could rely on our past experiences, and (c) were underpinned by the reactivation of visual flows. We conducted a series of studies to test these three predictions. Overall, our results provided evidence in favour of the unintentional triggering hypothesis and of past experiences as a driver of action tendencies. However, our results did not provide evidence in favour of a visual flow reactivation process. Among other things, we discuss the limitations of the evidence we have provided for our first two hypotheses, the methodological particularities that could have hindered our capacity to provide evidence for our third hypothesis, and we suggest some research perspectives to pursue our investigation.</p>"
@@ -44,12 +44,12 @@ featured: true
 #   url: http://example.org
 links:
 - name: theses.fr
-  url: https://www.theses.fr/s246740
+  url: https://theses.fr/2023GRALS054
 - icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/YoannJulliard
-url_pdf: ''
+url_pdf: 'https://theses.hal.science/tel-04634533v1/document'
 url_code: ''
 url_dataset: ''
 url_poster: ''

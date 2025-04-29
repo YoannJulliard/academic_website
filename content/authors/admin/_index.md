@@ -72,11 +72,11 @@ My research interests include 'implicit' social cognition and more specifically 
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
-I mainly work on the memory processes underlying approach/avoidance tendencies. I also have some research activities on carbon footprint metacognition.
+I mainly work on the memory processes underlying approach/avoidance tendencies. I also have some research activities on carbon footprint metacognition. Currently, I am training in Data Science.
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
-Beside my academic activities, I am concerned about climate change and related topics such as energy supply or biodiversity. 
+Beside my professional activities, I am concerned about climate change and related topics such as energy supply or biodiversity. 
 </p>
 <!-- 
 <p style='font-size:18px; text-align: justify;'> 
