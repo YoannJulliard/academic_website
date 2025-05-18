@@ -14,10 +14,10 @@ external_link: ""
 #   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/YoannJulliard
+  url: https://fediscience.org/@YoannJulliard
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -31,8 +31,10 @@ url_video: ""
 # slides: example
 ---
 
+<p style='font-size:18px; text-align: justify;'> 
 Approach/avoidance is one of the primary responses of an organism and is crucial for survival. Often, people have to  decide quickly whether they should approach or avoid. For instance, in front of a growling dog the decision to run away  have to be spontaneous.
-
+<br><br>
 Relying on past experiences is a way to react quickly to our environment. Our research project aims to improve our understanding of spontaneous approach/avoidance tendencies. Specifically, we rely on a grounded approach of cognition and a non-abstractive view of the memory.
-
+<br><br>
 A better understanding of the memory processes underlying approach/avoidance tendencies would allow us to determine what is important when measuring and training approach/avoidance tendencies.
+</p>

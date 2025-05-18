@@ -46,10 +46,10 @@ image:
 links:
 - name: Conference website
   url: http://www.adrips.org/colloque/?page_id=641
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/YoannJulliard
+  url: https://fediscience.org/@YoannJulliard
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""

@@ -44,10 +44,10 @@ image:
 links:
 - name: Conference website
   url: https://cipslf2022.sciencesconf.org
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/YoannJulliard
+  url: https://fediscience.org/@YoannJulliard
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""

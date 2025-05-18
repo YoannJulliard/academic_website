@@ -142,7 +142,7 @@ search:
 map:
   provider: 'mapbox'
   api_key: ''
-  zoom: 17
+  zoom: 4
 marketing:
   google_analytics: ''
   google_tag_manager: ''

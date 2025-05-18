@@ -47,10 +47,10 @@ featured: true
 links:
 - name: Journal website
   url: https://intellectica.org/fr/perspective-de-cognition-incarnee-dans-l-etude-des-tendances-l-approcheevitement
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/YoannJulliard
+  url: https://fediscience.org/@YoannJulliard
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -72,8 +72,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-# - example
+projects:
+- mpaa
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

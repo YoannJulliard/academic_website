@@ -43,10 +43,10 @@ image:
 links:
 - name: Conference website
   url: https://lpnc.univ-grenoble-alpes.fr/recherche/animation-mediation-scientifique/rencontres-jeunes-chercheurs-rjc-lpnc 
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/YoannJulliard
+  url: https://fediscience.org/@YoannJulliard
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""

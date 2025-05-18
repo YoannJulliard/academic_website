@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include 'implicit' processes, grounded cognition, methods, and data analysis.
+bio: My research interests include 'implicit' measures, carbon footprint metacognition, methods, and data analysis.
 education:
   courses:
   - course: PhD Degree in Social Psychology
@@ -18,19 +18,19 @@ education:
   #   year: 2015
 email: "yoannjulliard@protonmail.com"
 interests:
-- Approach-avoidance
-- Grounded cognition
-- Memory
+- \'Implicit\' measures
+- Carbon footprint metacognition
 - Methods
 - Data analysis
 - R
+- Python
 title: Yoann Julliard
 name: Yoann Julliard
 organizations:
 - name: LIP/PC2S
   url: "https://www.lippc2s.fr"
-- name: Univ. Grenoble Alpes
-  url: "https://www.univ-grenoble-alpes.fr/english/"
+#- name: Univ. Grenoble Alpes
+#  url: "https://www.univ-grenoble-alpes.fr/english/"
 role: Independent Researcher
 social:
 - icon: envelope
@@ -68,11 +68,11 @@ I am an independent researcher in social psychology, associated to LIP/PC2S labo
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
-My research interests include 'implicit' social cognition and more specifically approach/avoidance tendencies, grounded cognition, methods in psychological science, and data analysis. 
+My research interests include 'implicit' social cognition, carbon footprint metacognition, methods in psychological science, and data analysis.
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 
-I mainly work on the memory processes underlying approach/avoidance tendencies. I also have some research activities on carbon footprint metacognition. Currently, I am training in Data Science.
+I mainly work on the memory processes underlying approach/avoidance tendencies. I also have a research project on carbon footprint metacognition and I participate in some multi-lab experiments. Currently, I am training in data science.
 </p>
 
 <p style='font-size:18px; text-align: justify;'> 

@@ -43,13 +43,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 links:
-- name: theses.fr
+- icon: graduation-cap
+  icon_pack: fas
+  name: theses.fr
   url: https://theses.fr/2023GRALS054
-- icon: twitter
+- icon: file-pdf
+  icon_pack: fas
+  name: PDF
+  url: https://theses.hal.science/tel-04634533v1/document
+- icon: mastodon
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/YoannJulliard
-url_pdf: 'https://theses.hal.science/tel-04634533v1/document'
+  url: https://fediscience.org/@YoannJulliard
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

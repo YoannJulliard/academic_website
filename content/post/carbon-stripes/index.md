@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ''
+  caption: 'made with [**ggplot2**](https://ggplot2.tidyverse.org)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -41,12 +41,12 @@ categories:
 - climate change
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/YoannJulliard
 - name: R shiny app
   url: https://yoannjulliard.shinyapps.io/carbon_stripes_app/
+- icon: mastodon
+  icon_pack: fab
+  name: Follow
+  url: https://fediscience.org/@YoannJulliard
 ---
 
 ## Some context

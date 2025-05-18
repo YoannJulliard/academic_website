@@ -40,12 +40,12 @@ categories:
 - statistics
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/YoannJulliard
 - name: R shiny app
   url: https://yoannjulliard.shinyapps.io/rosnow_rosenthal_app/
+- icon: mastodon
+  icon_pack: fab
+  name: Follow
+  url: https://fediscience.org/@YoannJulliard
 ---
 
 ## Some context
